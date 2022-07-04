@@ -4,11 +4,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // MY OTHERS
-global.owner = ['6283834558105']
-global.premium = ['6283834558105']
-global.botname = 'Neoxy Bot'
+global.owner = ['6285870305499']
+global.premium = ['6285870305499']
+global.botname = 'ScarletBotz'
 global.packname = 'Bot Whatsapp'
-global.author = 'Neoxy Team'
+global.author = 'Scarlet Team'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.footer = '© Created By Lexxy Official'
 global.sp = '⭔'
